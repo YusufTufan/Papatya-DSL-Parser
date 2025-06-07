@@ -1,4 +1,4 @@
-# Papatya DSL Parserr
+# Papatya DSL Parser
 Papatya: A lightweight parsing solutio
 
 # 🌼 Papatya DSL Parser
