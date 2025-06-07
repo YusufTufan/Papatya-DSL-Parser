@@ -1,0 +1,2 @@
+-- Bu bir test yorumudur
+papatya.draw_point(x = 15, y = 25);

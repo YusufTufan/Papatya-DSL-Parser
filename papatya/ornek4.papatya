@@ -1,0 +1,2 @@
+papatya.draw_point(x = 0, y = 0);
+papatya.line(from = (0, 0), to = (50, 50));
