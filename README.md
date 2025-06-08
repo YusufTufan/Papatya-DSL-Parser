@@ -38,19 +38,6 @@ Papatya: A lightweight parsing solutio
 - **Fonksiyon**: Tanım/çağrı desteği yok  
 - **Çizim İşlemleri**: `DRAW_POINT` ve `LINE` komutlarıyla sınırlı
 
-## ▶️ Derleme ve Çalıştırma
-
-Aşağıdaki komutlarla lexer ve parser’ı oluşturup programı çalıştırabilirsiniz:
-
-```bash
-flex papatya.l
-bison -d papatya.y
-gcc lex.yy.c papatya.tab.c -o papatyaParser
-./papatyaParser < test.txt
-````
-
-> `test.txt` içerisinde Papatya komutları yer almalıdır.
-
 ## 📄 Örnek Girdi
 
 ```text
