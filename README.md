@@ -2,7 +2,7 @@
 Papatya: A lightweight parsing solutio
 
 # 🌼 Papatya DSL Parser
-
+ 
 **Papatya**, grafik çizim işlemlerini basitleştirmek amacıyla tasarlanmış bir alan özgü dil (DSL)'dir. Bu proje, Papatya dilinin söz dizimi analizini yapmak ve girdilere göre nokta/çizgi gibi grafiksel nesneleri işleyebilmek için bir lexer ve parser içerir.
 
 ## 🎯 Amaç
