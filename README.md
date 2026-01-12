@@ -55,3 +55,9 @@ LINE FROM X=5, Y=5 TO X=100, Y=100;
 
 ## 👨‍💻 Geliştirenler
 Bu proje, Pamukkale Üniversitesi CENG 218 – Programlama Dilleri dersi kapsamında hazırlanmıştır.
+
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Copyright (c) 2025 YusufTufan
